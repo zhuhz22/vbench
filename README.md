@@ -11,4 +11,4 @@ python evaluate.py --dimension {dimension} --videos_path {video path} --output_p
 ```
 ['subject_consistency', 'background_consistency', 'temporal_flickering', 'motion_smoothness', 'dynamic_degree', 'aesthetic_quality', 'imaging_quality', 'object_class', 'multiple_objects', 'human_action', 'color', 'spatial_relationship', 'scene', 'temporal_style', 'appearance_style', 'overall_consistency']
 ```
-此处'object_class','color'等不支持 `--mode=custom_input`,要求所采视频必须严格尊许 VBench prompts.
+此处'object_class','color'等不支持 `--mode=custom_input`,要求所采视频必须严格遵循 VBench prompts.
