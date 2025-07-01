@@ -1,7 +1,6 @@
 ### Install
 ```bash
-pip install torch torchvision --index-url https://download.pytorch.org/whl/cu118 # or other version with CUDA<=12.1
-pip install VBench
+pip install -r requirements.txt
 ```
 ### Evaluate
 ```bash
