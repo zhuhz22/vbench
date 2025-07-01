@@ -1,6 +1,8 @@
 ### Install
 ```bash
-pip install -r requirements.txt
+pip install torch torchvision --index-url https://download.pytorch.org/whl/cu118 # or any other PyTorch version with CUDA<=12.1
+pip install vbench
+pip install detectron2@git+https://github.com/facebookresearch/detectron2.git
 ```
 ### Evaluate
 ```bash
