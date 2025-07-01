@@ -1,0 +1,5 @@
+--2025-07-01 15:25:54--  https://cdn-lfs-us-1.hf.co/repos/5e/a3/5ea31f37f9480692557c80c33c7a4c34b44b82f80f27e3b38435e9714b5854b4/53b6e9b3fd948eac55b574c9b6f94ad0743dff46ba449df7ac2d33009ee92ef1?response-content-disposition=inline%3B+filename*%3DUTF-8%27%27grit_b_densecap_objectdet.pth%3B+filename%3D%22grit_b_densecap_objectdet.pth%22%3B
+Connecting to 192.168.48.83:5566... connected.
+Proxy request sent, awaiting response... 403 Forbidden
+2025-07-01 15:25:54 ERROR 403: Forbidden.
+
